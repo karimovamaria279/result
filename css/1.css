@@ -71,8 +71,8 @@
 }
 .card-btn{
     position: absolute;
-    top: 70%;
     left: 5%;
+    bottom:2%;
 }
 .art-house{
     font-family: raleway;
