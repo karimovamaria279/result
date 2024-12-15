@@ -1,0 +1,145 @@
+@font-face{
+    font-family: 'raleway';
+    src: url('../font/Raleway.ttf')
+}
+.header{
+    background: #f3dec0;
+    height: 100px;
+    font-family: raleway;
+    font-size: 18px;
+}
+.inc-house{
+    margin-left: 16px;
+    font-family: raleway;
+    font-size: 22px;
+    font-weight: bold;
+    color: black;
+    object-fit: contain;
+}
+.cart{
+    width: 22px;
+    height: 22px;
+}
+.nav-text{
+    color:#2C2D35;
+    font-family: raleway;
+    font-size: 26px;
+}
+.header-text{
+    text-align: center;
+}
+.img-layer{
+    width: 540px;
+    height: 621px; 
+}
+.text{
+    font-family: raleway;
+    font-size: 40px;
+}
+.text1{
+    font-family: raleway;
+    font-size: 40px;
+}
+.green{
+    color: #FF9F00;
+}
+.color-gray{
+    color: #86928B;
+}
+.color-bottom{
+    color:rgb(102, 77, 3)
+}
+.text-b{
+    font-family: raleway;
+    font-size: 24px;
+}
+.btn{
+    font-family: raleway;
+    font-size: 26px;   
+}
+.circle-btn{
+    border-radius: 25px!important;
+    margin-left:10px!important;
+}
+.main{
+    width: 80vw;
+    margin: 50px auto;
+}
+.card{
+    background: #FF9F00;
+    margin: 10px auto;
+}
+.card-btn{
+    position: absolute;
+    top: 70%;
+    left: 5%;
+}
+.art-house{
+    font-family: raleway;
+    object-fit: contain;
+}
+.text-card{
+    font-family: raleway;
+    font-size: 18px; 
+}
+.text-white{
+    font-family: raleway;
+    color:white;
+}
+.text-card-new{
+    color:rgb(102, 77, 3)
+}
+.card-name{
+    font-family: raleway;
+    font-size: 30px; 
+}
+.card-body{
+    background-color:#f3dec0;
+}
+.fon{
+    background-image: url(../img/fon_dog.jpg);
+    background-size: cover;
+    background-repeat:no-repeat;
+    aspect-ratio: 1.9/1;    
+}
+.text-collection{
+    color: black;
+    font-family: raleway;
+    font-size: 28px; 
+    text-align:justify;
+}
+.big{
+    color:rgb(102, 77, 3);
+    font-family: raleway;
+    font-size: 36px; 
+    text-align: center;
+}
+.header_2{
+    background: #f3dec0;
+    height: auto;
+    width: auto;
+}
+.pic1{
+    position: relative;
+    margin:100px 0 30px 0;
+}
+.pic2{
+    position: absolute;
+    left: 40px;
+    top:-25px;
+    z-index:1;
+ }
+ .name-size{
+    font-size: 20px;
+    color:#2C2D35;
+    font-family: raleway;
+}
+
+.name_but{
+    font-size: 20px;
+    font-family: raleway;
+}
+.name_butmin{
+    font-size: 10px;
+    font-family: raleway;
+}
